@@ -1,6 +1,9 @@
 Build an Alexa How-To Skill in ASK Java SDK
 ===========================================
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 This tutorial will walk first-time Alexa skills developers through all
